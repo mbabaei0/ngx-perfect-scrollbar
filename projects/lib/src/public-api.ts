@@ -1,12 +1,12 @@
 export { PerfectScrollbarComponent } from './lib/perfect-scrollbar.component';
 export { PerfectScrollbarDirective } from './lib/perfect-scrollbar.directive';
+export { ForceNativeScrollDirective } from './lib/perfect-scrollbar-force-native-scroll.directive';
 
 export {
   Geometry,
   Position,
 
   PERFECT_SCROLLBAR_CONFIG,
-
   PerfectScrollbarConfig,
   PerfectScrollbarConfigInterface
 } from './lib/perfect-scrollbar.interfaces';
